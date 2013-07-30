@@ -1,4 +1,1 @@
-mygit
-=====
-
-myproject
+a=10
